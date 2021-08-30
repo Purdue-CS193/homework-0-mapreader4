@@ -1,3 +1,12 @@
+# Nathan's First CS193 Homework
+
+Enjoyable things about CS193:
+- We're going to learn how to use terminal and GitHub.
+- We only have 1 or 2 hours of class each week.
+- The class is taught by undergraduates for undergraduates.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
